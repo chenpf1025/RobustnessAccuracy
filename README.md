@@ -9,7 +9,7 @@ This is the official repository for the paper *Robustness of Accuracy Metric and
 }
 ```
 
-Under diagonally-dominant class-conditional label noise, the paper have main conclusion as follows.
+Under diagonally-dominant class-conditional label noise, the main conclusions are as follows.
 * A classifier maximizing its accuracy on the noisy distribution is guaranteed to maximize the accuracy on clean distribution.
 * We can obtain an optimal classifier by maximizing training accuracy on sufficiently many noisy samples.
 * A noisy validation set is reliable.
