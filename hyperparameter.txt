@@ -1,0 +1,206 @@
+CE cifar100 pair0.2
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path='cifar100_pair0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar100 pair0.3
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path='cifar100_pair0.3_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar100 pair0.4
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path='cifar100_pair0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar100 uniform0.2
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='cifar100_uniform0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar100 uniform0.4
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='cifar100_uniform0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar100 uniform0.6
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='cifar100_uniform0.6_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 asym0.2
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path='cifar10_asym0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 asym0.3
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path='cifar10_asym0.3_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 asym0.4
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path='cifar10_asym0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 uniform0.2
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='cifar10_uniform0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 uniform0.4
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='cifar10_uniform0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+CE cifar10 uniform0.6
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='cifar10_uniform0.6_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 pair0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, tau=0.2, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, tau=0.1, teacher_path='ct_cifar100_pair0.2_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 pair0.3
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, tau=0.3, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, tau=0.2, teacher_path='ct_cifar100_pair0.3_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 pair0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, tau=0.4, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, tau=0.3, teacher_path='ct_cifar100_pair0.4_warm60_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 uniform0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, tau=0.2, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, tau=0.1, teacher_path='ct_cifar100_uniform0.2_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 uniform0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, tau=0.4, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, tau=0.2, teacher_path='ct_cifar100_uniform0.4_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar100 uniform0.6
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, tau=0.6, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, tau=0.3, teacher_path='ct_cifar100_uniform0.6_warm60_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 asym0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, tau=0.1, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, tau=0.03, teacher_path='ct_cifar10_asym0.2_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 asym0.3
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, tau=0.15, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, tau=0.04, teacher_path='ct_cifar10_asym0.3_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 asym0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, tau=0.2, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, tau=0.05, teacher_path='ct_cifar10_asym0.4_warm60_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 uniform0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, tau=0.2, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, tau=0.05, teacher_path='ct_cifar10_uniform0.2_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 uniform0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, tau=0.4, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=0, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, tau=0.1, teacher_path='ct_cifar10_uniform0.4_warm0_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Co-T  cifar10 uniform0.6
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, tau=0.6, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, tau=0.15, teacher_path='ct_cifar10_uniform0.6_warm60_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 pair0.2
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path='dmi_cifar100_pair0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 pair0.3
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.3_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.3_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path='dmi_cifar100_pair0.3_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 pair0.4
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_pair0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path='dmi_cifar100_pair0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 uniform0.2
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='dmi_cifar100_uniform0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 uniform0.4
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='dmi_cifar100_uniform0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar100 uniform0.6
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.6_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar100_uniform0.6_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='dmi_cifar100_uniform0.6_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 asym0.2
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path='dmi_cifar10_asym0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 asym0.3
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.3_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.3_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path='dmi_cifar10_asym0.3_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 asym0.4
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_asym0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path='dmi_cifar10_asym0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 uniform0.2
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.2_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='dmi_cifar10_uniform0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 uniform0.4
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.4_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='dmi_cifar10_uniform0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+DMI  cifar10 uniform0.6
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.6_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, epochs=100, gpu_id=0, init_path='cifar10_uniform0.6_dp0.2_augstrong_seed0_best.pth', lr=1e-06, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='dmi_cifar10_uniform0.6_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 pair0.2
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.2, save_model=True, seed=0, teacher_path='gce_cifar100_pair0.2_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 pair0.3
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.3, save_model=True, seed=0, teacher_path='gce_cifar100_pair0.3_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 pair0.4
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='pair', noise_rate=0.4, save_model=True, seed=0, teacher_path='gce_cifar100_pair0.4_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 uniform0.2
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='gce_cifar100_uniform0.2_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 uniform0.4
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='gce_cifar100_uniform0.4_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar100 uniform0.6
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='standard', batch_size=128, dp=0.0, e_warm=120, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='gce_cifar100_uniform0.6_dp0.0_augstandard_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 asym0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.2, save_model=True, seed=0, teacher_path='gce_cifar10_asym0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 asym0.3
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.3, save_model=True, seed=0, teacher_path='gce_cifar10_asym0.3_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 asym0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='asym', noise_rate=0.4, save_model=True, seed=0, teacher_path='gce_cifar10_asym0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 uniform0.2
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.2, save_model=True, seed=0, teacher_path='gce_cifar10_uniform0.2_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 uniform0.4
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.4, save_model=True, seed=0, teacher_path='gce_cifar10_uniform0.4_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+GCE  cifar10 uniform0.6
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path=None, test_batch_size=200, val_size=5000
+aug='strong', batch_size=128, dp=0.2, e_warm=60, epochs=200, gpu_id=0, lr=0.1, noise_pattern='uniform', noise_rate=0.6, save_model=True, seed=0, teacher_path='gce_cifar10_uniform0.6_dp0.2_augstrong_seed0_best.pth', test_batch_size=200, val_size=5000
+
+Teacher: Clothing1M
+T=0.5, alpha=0.5, batch_size=32, data_path='data/Clothing1M/', gpuid=0, id='clothing1m', lambda_u=0, lr=0.002, num_batches=1000, num_class=14, num_epochs=80, p_threshold=0.5, seed=0, use_noisy_val=False
+Student 1: Clothing1M
+batch_size=256, epochs=10, init_path='dividemix_net1.pth', lr=0.001, n_gpu=2, root='data/Clothing1M/', save_model=True, seed=0, soft_targets=True, teacher_path='dividemix_net1.pth', test_batch_size=256, use_noisy_val=False
+Student 2: Clothing1M
+batch_size=256, epochs=10, init_path='dividemix_net2.pth', lr=0.001, n_gpu=2, root='data/Clothing1M/', save_model=True, seed=0, soft_targets=True, teacher_path='dividemix_net2.pth', test_batch_size=256, use_noisy_val=False
+
+Teacher: Clothing1M (Noisy Validation)
+T=0.5, alpha=0.5, batch_size=32, data_path='data/Clothing1M/', gpuid=0, id='clothing1m', lambda_u=0, lr=0.002, num_batches=1000, num_class=14, num_epochs=80, p_threshold=0.5, seed=0, use_noisy_val=True
+Student 1: Clothing1M (Noisy Validation)
+batch_size=256, epochs=10, init_path='nv_dividemix_net1.pth', lr=0.001, n_gpu=2, root='data/Clothing1M/', save_model=True, seed=0, soft_targets=True, teacher_path='nv_dividemix_net1.pth', test_batch_size=256, use_noisy_val=True
+Student 2: Clothing1M (Noisy Validation)
+batch_size=256, epochs=10, init_path='nv_dividemix_net2.pth', lr=0.001, n_gpu=2, root='data/Clothing1M/', save_model=True, seed=0, soft_targets=True, teacher_path='nv_dividemix_net2.pth', test_batch_size=256, use_noisy_val=True
+
