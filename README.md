@@ -4,7 +4,7 @@ This is the official repository for the paper *Robustness of Accuracy Metric and
 @inproceedings{chen2021robustness,
   title={Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.},
   author={Chen, Pengfei and Ye, Junjie and Chen, Guangyong and Zhao, Jingwei and Heng, Pheng-Ann},
-  booktitle={Accepted by AAAI 2021 (preprint)},
+  booktitle={Preprint, accepted by AAAI 2021},
   year={2021}
 }
 ```
