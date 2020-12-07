@@ -1,10 +1,10 @@
 # Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.
-This is the official repository for the paper *Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.* (Accepted by AAAI 2021).
+This is the official repository for the paper *Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.*.
 ```
 @inproceedings{chen2021robustness,
   title={Robustness of Accuracy Metric and its Inspiration in Learning with Noisy Labels.},
   author={Chen, Pengfei and Ye, Junjie and Chen, Guangyong and Zhao, Jingwei and Heng, Pheng-Ann},
-  booktitle={Preprint, accepted by AAAI 2021},
+  booktitle={Preprint},
   year={2021}
 }
 ```
