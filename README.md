@@ -2,10 +2,10 @@
 This is the official repository for the paper *Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.*
 ```
 @article{chen2020robustness,
-	title={Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.},
-	author={Chen, Pengfei and Ye, Junjie and Chen, Guangyong and Zhao, Jingwei and Heng, Pheng-Ann},
-	journal={arXiv preprint arXiv:2012.04193},
-	year={2020}
+  title={Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.},
+  author={Chen, Pengfei and Ye, Junjie and Chen, Guangyong and Zhao, Jingwei and Heng, Pheng-Ann},
+  journal={arXiv preprint arXiv:2012.04193},
+  year={2020}
 }
 ```
 
