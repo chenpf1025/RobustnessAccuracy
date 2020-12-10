@@ -1,5 +1,5 @@
 # Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.
-This is the official repository for the paper *Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.*
+This is the official repository for the paper [Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels](https://arxiv.org/abs/2012.04193).
 ```
 @article{chen2020robustness,
   title={Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels.},
